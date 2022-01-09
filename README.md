@@ -1,0 +1,2 @@
+# loteria
+Exercício de python
