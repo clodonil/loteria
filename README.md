@@ -1,8 +1,8 @@
 __Exercício sobre loteria__
 =========================
 
-## 1. Faça um programa que mostra os 10 números mais sorteados na mega-sena.
-## 2. Faça um gamer: O usuário deve entrar com 6 números e o programa deve retornar se os números informados já foram sorteados em alguma mega-sena e qual o valor do prêmio.
+* 1. Faça um programa que mostra os 10 números mais sorteados na mega-sena.
+* 2. Faça um gamer: O usuário deve entrar com 6 números e o programa deve retornar se os números informados já foram sorteados em alguma mega-sena e qual o valor do prêmio.
 
 ```bash
 git clone git@github.com:clodonil/loteria.git
@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 Executando testes unitários:
 
-```bash
+```python
 pytest -v
 =============================================================== test session starts ================================================================
 platform linux -- Python 3.8.10, pytest-6.2.5, py-1.11.0, pluggy-1.0.0 -- /mnt/c/Users/clodo/Documents/WorkSpace/loteria/venv/bin/python3
