@@ -1,8 +1,8 @@
 __Exercício sobre loteria__
 =========================
 
-* 1. Faça um programa que mostra os 10 números mais sorteados na mega-sena.
-* 2. Faça um gamer: O usuário deve entrar com 6 números e o programa deve retornar se os números informados já foram sorteados em alguma mega-sena e qual o valor do prêmio.
+* __1. Faça um programa que mostra os 10 números mais sorteados na mega-sena.__
+* __2. Faça um gamer: O usuário deve entrar com 6 números e o programa deve retornar se os números informados já foram sorteados em alguma mega-sena e qual o valor do prêmio.__
 
 ```bash
 git clone git@github.com:clodonil/loteria.git
