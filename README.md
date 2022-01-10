@@ -53,6 +53,12 @@ Os 10 numeros mais sorteados na mega sena:
 ```
 
 Executando o gamer:
-```python
-python run_gamer.py
+
+```bash
+python run_game.py
+Game da Mega-Sena (digite sair para finalizar)
+Digite os 6 numeros:1,8,14,28,33,43
+Resultado: Você ganhou o valor de 18.661.679,61
+Digite os 6 numeros:sair
+Fim do game.
 ```
