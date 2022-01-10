@@ -39,6 +39,17 @@ Executando o programa para executar os 10 números mais sorteados na mega-sena
 
 ```python
 python run_numeros_magicos.py
+Os 10 numeros mais sorteados na mega sena:
+1 --> 053 saiu 279 vezes
+2 --> 010 saiu 276 vezes
+3 --> 005 saiu 267 vezes
+4 --> 042 saiu 267 vezes
+5 --> 004 saiu 264 vezes
+6 --> 037 saiu 264 vezes
+7 --> 033 saiu 263 vezes
+8 --> 023 saiu 261 vezes
+9 --> 030 saiu 260 vezes
+10 --> 027 saiu 260 vezes
 ```
 
 Executando o gamer:
