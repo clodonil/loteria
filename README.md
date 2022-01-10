@@ -2,12 +2,12 @@ __Exercício sobre loteria__
 =========================
 
 * __1. Faça um programa que mostra os 10 números mais sorteados na mega-sena.__
-* __2. Faça um gamer: O usuário deve entrar com 6 números e o programa deve retornar se os números informados já foram sorteados em alguma mega-sena e qual o valor do prêmio.__
+* __2. Faça um gamer: O usuário deve entrar com 6 números e o programa deve retornar se os números informados já foi sorteado em alguma mega-sena e qual o valor do prêmio.__
 
 ```bash
 git clone git@github.com:clodonil/loteria.git
 ```
-Instalação da dependencias:
+Instalação das dependências:
 
 ```bash
 pip install -r requirements.txt
@@ -35,7 +35,7 @@ test_numeros_magicos.py::test_os_10_numeros_mais_sorteados_na_mega PASSED       
 ================================================================ 8 passed in 13.42s ================================================================
 ````
 
-Executando o programa para executar os 10 números mais sorteados na mega-sena
+Executando o programa para obter os 10 números mais sorteados na mega-sena:
 
 ```python
 python run_numeros_magicos.py
